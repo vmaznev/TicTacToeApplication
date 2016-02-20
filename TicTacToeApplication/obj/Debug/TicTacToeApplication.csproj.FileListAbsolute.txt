@@ -1,0 +1,24 @@
+c:\users\valery\documents\visual studio 2012\Projects\TicTacToeApplication\TicTacToeApplication\bin\Debug\TicTacToeApplication.exe.config
+c:\users\valery\documents\visual studio 2012\Projects\TicTacToeApplication\TicTacToeApplication\bin\Debug\TicTacToeApplication.exe
+c:\users\valery\documents\visual studio 2012\Projects\TicTacToeApplication\TicTacToeApplication\bin\Debug\TicTacToeApplication.pdb
+c:\users\valery\documents\visual studio 2012\Projects\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.csprojResolveAssemblyReference.cache
+c:\users\valery\documents\visual studio 2012\Projects\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.MainForm.resources
+c:\users\valery\documents\visual studio 2012\Projects\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.Properties.Resources.resources
+c:\users\valery\documents\visual studio 2012\Projects\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.csproj.GenerateResource.Cache
+c:\users\valery\documents\visual studio 2012\Projects\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.exe
+c:\users\valery\documents\visual studio 2012\Projects\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.pdb
+C:\Users\Valery\Desktop\TicTacToeApplication\TicTacToeApplication\TicTacToeApplication\bin\Debug\TicTacToeApplication.exe.config
+C:\Users\Valery\Desktop\TicTacToeApplication\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.exe
+C:\Users\Valery\Desktop\TicTacToeApplication\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.pdb
+F:\Craphold\Temp\Уни\PS\TicTacToeApplication\TicTacToeApplication\TicTacToeApplication\bin\Debug\TicTacToeApplication.exe.config
+F:\Craphold\Temp\Уни\PS\TicTacToeApplication\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.exe
+F:\Craphold\Temp\Уни\PS\TicTacToeApplication\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.pdb
+F:\Craphold\Temp\Уни\PS\TicTacToeApplication\TicTacToeApplication\TicTacToeApplication\bin\Debug\TicTacToeApplication.exe
+F:\Craphold\Temp\Уни\PS\TicTacToeApplication\TicTacToeApplication\TicTacToeApplication\bin\Debug\TicTacToeApplication.pdb
+F:\Craphold\Temp\Уни\PS\TicTacToeApplication\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.csprojResolveAssemblyReference.cache
+F:\Craphold\Temp\Уни\PS\TicTacToeApplication\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.MainForm.resources
+F:\Craphold\Temp\Уни\PS\TicTacToeApplication\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.Properties.Resources.resources
+F:\Craphold\Temp\Уни\PS\TicTacToeApplication\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.csproj.GenerateResource.Cache
+F:\Programming\Windows Form Application\TicTacToeApplication\TicTacToeApplication\bin\Debug\TicTacToeApplication.exe.config
+F:\Programming\Windows Form Application\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.exe
+F:\Programming\Windows Form Application\TicTacToeApplication\TicTacToeApplication\obj\Debug\TicTacToeApplication.pdb
